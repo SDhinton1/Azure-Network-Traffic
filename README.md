@@ -31,7 +31,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="blob:chrome-untrusted://media-app/60b0281e-3d73-46f0-9ccd-23ff06875362" alt="Screenshot 2023-09-07 12.34.17 PM.png"/>![image](https://github.com/SDhinton1/Azure-Network-Traffic/assets/143854836/46e65163-4464-4094-a526-b693c37a2a80)
+<img src="https://i.imgur.com/JKs8ndo.png" alt="IP Traffic"/>
 </p>
 <p>
 Download wireShark and observe the traffic that is running in the app.
@@ -39,7 +39,7 @@ Download wireShark and observe the traffic that is running in the app.
 <br />
 
 <p>
-<img src="blob:chrome-untrusted://media-app/68f524bc-b298-4e09-80d8-9c555c048d83" alt="Screenshot 2023-09-07 12.47.39 PM.png"/>![image](https://github.com/SDhinton1/Azure-Network-Traffic/assets/143854836/6cc1fa38-2967-493f-8b45-05ea86aec338)
+<img src="https://i.imgur.com/kcbX2Wj.png" alt="PowerShell IP"/>
 </p>
 <p>
 In Powershell use the command ipconfig /renew to observe the traffic.
@@ -47,7 +47,7 @@ In Powershell use the command ipconfig /renew to observe the traffic.
 <br />
 
 <p>
-<img src="blob:chrome-untrusted://media-app/91160f8a-8391-4759-8f7c-99534763ff8f" alt="Screenshot 2023-09-07 12.51.49 PM.png"/>![image](https://github.com/SDhinton1/Azure-Network-Traffic/assets/143854836/d4088798-d25a-4124-b179-4c27e7556965)
+<img src="https://i.imgur.com/clnzDBc.png" alt="Tcp 3389"/>
 </p>
 <p>
 Back in WireShark type tcp.port==3389 into the line and observe the traffic notice the traffic never stops this happens due to RDP showing a livestream of one computer to the other.
