@@ -31,7 +31,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/JKs8ndo.png" alt="IP Traffic"/>
+<img src="https://i.imgur.com/438U7af.png" alt="IP Traffic"/>
 </p>
 <p>
 Download wireShark and observe the traffic that is running in the app.
@@ -39,7 +39,7 @@ Download wireShark and observe the traffic that is running in the app.
 <br />
 
 <p>
-<img src="https://i.imgur.com/kcbX2Wj.png" alt="PowerShell IP"/>
+<img src="https://i.imgur.com/JmiFUu4.png" alt="PowerShell IP"/>
 </p>
 <p>
 In Powershell use the command ipconfig /renew to observe the traffic.
